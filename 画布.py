@@ -13,7 +13,8 @@ print(width,hight)
 turtle.setup(width+15,hight+15)
 turtle.bgcolor(0,0,0)
 turtle.pencolor(1,1,1)
-
+  
+    
 def y(x,y):
     x=x-1/2*width
     y=-(y-1/2*hight)
